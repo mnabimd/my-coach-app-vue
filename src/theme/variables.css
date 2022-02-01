@@ -1,0 +1,8 @@
+:root {
+    /** primary **/
+    --primary-color: #1100f8;
+    --primary-color-dark: #170bc0;
+    --primary-color-light: #f0e6fd;
+    --ternary-color: #69DADB;
+    --old: #008BF8;
+}
